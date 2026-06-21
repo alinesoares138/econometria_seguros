@@ -190,7 +190,7 @@ A análise demonstra como métodos quantitativos podem apoiar decisões:
 
 ---
 
-# 🤖 Uso de Inteligência Artificial no desenvolvimento
+# 🤖 Uso de Inteligência Artificial 
 
 Este projeto foi desenvolvido com apoio de Inteligência Artificial generativa utilizando o **Claude** como ferramenta de programação e aceleração de desenvolvimento.
 
@@ -211,23 +211,17 @@ Este projeto demonstra como ferramentas de IA podem ser integradas ao fluxo mode
 # 🚀 Como executar
 
 Instalar dependências:
-
 ```bash
 npm install
 ```
-
 Executar localmente:
-
 ```bash
 npm run dev
 ```
-
 Publicar:
-
 ```bash
 npm run deploy
 ```
-
 ---
 
 # 👩‍💻 Autora
